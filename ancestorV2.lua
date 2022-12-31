@@ -51,7 +51,7 @@ function Library:Initiate()
     MainFrame.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
     MainFrame.BorderSizePixel = 0
     MainFrame.Position = UDim2.new(0.5, -350, 0.5, -200)
-    MainFrame.Size = UDim2.new(0, (700/2), 0, (460/))
+    MainFrame.Size = UDim2.new(0, (700/2), 0, (460/2))
     MainFrame.Active = true
     MainFrame.Draggable = true
     
